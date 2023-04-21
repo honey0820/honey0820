@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="./Logo.gif" />
+  <img height="250" width="500px" src="./Logo.gif" />
 </div>
 
 ## Core Skills
