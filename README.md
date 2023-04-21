@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/honeydev0820/honeydev0820/blob/main/Logo.gif"  />
+  <img height="200" src="https://github.com/honeydev0820/Logo.gif"  />
 </div>
 
 ## Core Skills
