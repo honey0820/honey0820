@@ -14,10 +14,10 @@
 
 - 🔭 <b>Frontend</b> : React/Next.js, Vue/Nuxt.js, Three.js
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
-- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
 
 ###
 
@@ -64,10 +64,10 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=IceDev528&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev528&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=honeydev0820&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydev0820&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IceDev528&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=honeydev0820&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     <img src = "profile-3d-contrib/profile-gitblock.svg">
   </a>
   
