@@ -56,10 +56,11 @@
 </div>
 
 
-###
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-###
+
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
