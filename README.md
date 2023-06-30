@@ -4,12 +4,6 @@
 
 <h3 align="center">Nice to meet you 👋</h3>
 
-###
-
-<div align="center">
-  <img height="250" width="500px" src="./Logo.gif" />
-</div>
-
 ## Core Skills
 
 - 🔭 <b>Frontend</b> : React/Next.js, Vue/Nuxt.js, Three.js
