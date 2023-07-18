@@ -48,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
 </div>
-
-/* https://drive.google.com/file/d/1t4rlu3_SGGQrJb5gvngHwr1nhHeJdNmj/view?usp=sharing */
-
+drive.google.com/file/d/1t4rlu3_SGGQrJb5gvngHwr1nhHeJdNmj/view?usp=sharing
 
 ###
